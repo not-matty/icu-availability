@@ -1,0 +1,541 @@
+[
+    {
+        "course_number": "121",
+        "course_name": "COMP PROGRAMMING I",
+        "section": "12810",
+        "times": "120      Wang,Matt                  Open      0/ 302",
+        "room": "SEE THE CSE 12X SELF-PLACEMENT"
+    },
+    {
+        "course_number": "122",
+        "course_name": "COMP PROGRAMMING II",
+        "section": "12845",
+        "times": "130      Garza,Elba                 Open      0/ 378",
+        "room": "SEE THE CSE 12X SELF-PLACEMENT"
+    },
+    {
+        "course_number": "123",
+        "course_name": "COMP PROGRAMMING III",
+        "section": "12883",
+        "times": "147      Wortzman,Brett             Open      0/ 220",
+        "room": "SEE THE CSE 12X SELF-PLACEMENT"
+    },
+    {
+        "course_number": "143",
+        "course_name": "COMPUTER PRGRMNG II",
+        "section": "12921",
+        "times": "110A     Reges,Stuart               Open      0/  50",
+        "room": "N/A"
+    },
+    {
+        "course_number": "160",
+        "course_name": "DATA PROGRAMMING",
+        "section": "Restr",
+        "times": "220                                 Open      0/ 252",
+        "room": "NOTE: CSE 160 CANNOT BE TAKEN FOR"
+    },
+    {
+        "course_number": "163",
+        "course_name": "INTERM DATA PROGRAM",
+        "section": "Restr",
+        "times": "G20      Lin,Kevin                  Open      0/ 216",
+        "room": "N/A"
+    },
+    {
+        "course_number": "190",
+        "course_name": "CURRENT TOPICS CSE",
+        "section": ">12953",
+        "times": "103      Huynh,Christina                      0/  55  CR/NC",
+        "room": "--"
+    },
+    {
+        "course_number": "311",
+        "course_name": "FOUNDATIONS COMP I",
+        "section": "Restr",
+        "times": "G20      Zatloukal,Kevin            Open      0/ 165",
+        "room": "N/A"
+    },
+    {
+        "course_number": "312",
+        "course_name": "FOUNDATIONS COMP II",
+        "section": "Restr",
+        "times": "120      Weber,Robbie               Open      0/ 200",
+        "room": "FINAL EXAM DATE/TIME TBD"
+    },
+    {
+        "course_number": "331",
+        "course_name": "SW DESIGN & IMPL",
+        "section": "Restr",
+        "times": "G20      Wilcox,James Rasmussen     Open      0/ 165",
+        "room": "N/A"
+    },
+    {
+        "course_number": "332",
+        "course_name": "DATA STRUC & PRLLEL",
+        "section": "Restr",
+        "times": "G20      Anderson,Ruth              Open      0/ 215",
+        "room": "N/A"
+    },
+    {
+        "course_number": "333",
+        "course_name": "SYSTEMS PROGRAMMING",
+        "section": "Restr",
+        "times": "G10      Perkins,Hal                Open      0/ 105",
+        "room": "N/A"
+    },
+    {
+        "course_number": "341",
+        "course_name": "PROGRAMMING LANGS",
+        "section": "13011",
+        "times": "G10      Reges,Stuart               Open      0/  90",
+        "room": "N/A"
+    },
+    {
+        "course_number": "344",
+        "course_name": "INTRO DATA MGMT",
+        "section": "Restr",
+        "times": "389      Wilcox,James Rasmussen     Open      0/ 165",
+        "room": "N/A"
+    },
+    {
+        "course_number": "351",
+        "course_name": "HW SW INTERFACE",
+        "section": "Restr",
+        "times": "110      Tang,Hannah C              Open      0/ 175                J",
+        "room": "CSE MAJORS ONLY"
+    },
+    {
+        "course_number": "369",
+        "course_name": "INTRO DIG DESIGN",
+        "section": "Restr",
+        "times": "230      Thachuk,Chris              Open      0/  64",
+        "room": "LAB SECTION REQUIREMENT:"
+    },
+    {
+        "course_number": "371",
+        "course_name": "DIGITAL DESIGN",
+        "section": "Restr",
+        "times": "241      Hussein,Rania              Open      0/  25           $50  J",
+        "room": "N/A"
+    },
+    {
+        "course_number": "373",
+        "course_name": "DATA STRUC/ALGORITH",
+        "section": "Restr",
+        "times": "147      Champion,Kasey Brittany    Open      0/ 300",
+        "room": "N/A"
+    },
+    {
+        "course_number": "374",
+        "course_name": "PROG CONCEPTS TOOLS",
+        "section": ">13050",
+        "times": "G01                                           0/ 110",
+        "room": "NOT OFFERED WINTER 2025"
+    },
+    {
+        "course_number": "390",
+        "course_name": "SPECIAL TOPICS CSE",
+        "section": "13051",
+        "times": "--",
+        "room": "--"
+    },
+    {
+        "course_number": "391",
+        "course_name": "SOFTWARE TOOLS",
+        "section": "Restr",
+        "times": "G20      Lin,Kevin                  Open      0/ 150  CR/NC         J",
+        "room": "N/A"
+    },
+    {
+        "course_number": "403",
+        "course_name": "SOFTWARE ENGINEERING",
+        "section": "Restr",
+        "times": "G10      Alverson,Gail              Open      0/  90",
+        "room": "N/A"
+    },
+    {
+        "course_number": "412",
+        "course_name": "INTRO DATA VIS",
+        "section": "Restr",
+        "times": "G01      Wolman,Tal                 Open      0/ 100                J",
+        "room": "N/A"
+    },
+    {
+        "course_number": "414",
+        "course_name": "DATABASE SYSTEMS",
+        "section": "Restr",
+        "times": "389      Maas,Ryan                  Open      0/ 150                J",
+        "room": "N/A"
+    },
+    {
+        "course_number": "415",
+        "course_name": "ARTIF INTELLIGENCE",
+        "section": "Restr",
+        "times": "G01      Tanimoto,Steven L          Open      0/ 105",
+        "room": "N/A"
+    },
+    {
+        "course_number": "416",
+        "course_name": "INTRO MACH LEARNING",
+        "section": "13085",
+        "times": "260                                 Open      0/  50                J",
+        "room": "N/A"
+    },
+    {
+        "course_number": "421",
+        "course_name": "INTRO TO ALGORITHMS",
+        "section": "Restr",
+        "times": "G20      Brunelle,Nathan James      Open      0/ 150",
+        "room": "N/A"
+    },
+    {
+        "course_number": "422",
+        "course_name": "MODERN ALGORITHMS",
+        "section": "Restr",
+        "times": "160      Lee,James R                Open      0/  55",
+        "room": "N/A"
+    },
+    {
+        "course_number": "426",
+        "course_name": "CRYPTOGRAPHY",
+        "section": "13105",
+        "times": "037      Lin,Huijia                 Open      0/  55                %",
+        "room": "N/A"
+    },
+    {
+        "course_number": "431",
+        "course_name": "INTRO THEORY COMPUT",
+        "section": "13108",
+        "times": "G10      Beame,Paul                 Open      0/  50",
+        "room": "N/A"
+    },
+    {
+        "course_number": "440",
+        "course_name": "INTRODUCTION TO HCI",
+        "section": "Restr",
+        "times": "G01      Reinecke,Katharina         Open      0/  48                J",
+        "room": "N/A"
+    },
+    {
+        "course_number": "442",
+        "course_name": "DATA VISUALIZATION",
+        "section": "Restr",
+        "times": "G20      Battle,Leilani             Open      0/ 145",
+        "room": "N/A"
+    },
+    {
+        "course_number": "444",
+        "course_name": "DATABASE INTERNALS",
+        "section": "Restr",
+        "times": "G01      Maas,Ryan                  Open      0/  95                J",
+        "room": "N/A"
+    },
+    {
+        "course_number": "446",
+        "course_name": "MACHINE LEARNING",
+        "section": "Restr",
+        "times": "110      Oh,Sewoong                 Open      0/ 174                J",
+        "room": "N/A"
+    },
+    {
+        "course_number": "447",
+        "course_name": "NAT LANG PROCESSING",
+        "section": "Restr",
+        "times": "260      Smith,Noah A               Open      0/ 130                J",
+        "room": "N/A"
+    },
+    {
+        "course_number": "451",
+        "course_name": "INTRO OPERATING SYS",
+        "section": "Restr",
+        "times": "G01      Kimura,Gary                Open      0/ 109",
+        "room": "N/A"
+    },
+    {
+        "course_number": "452",
+        "course_name": "DISTRIBUTED SYSTEMS",
+        "section": "Restr",
+        "times": "G20      Anderson,Thomas            Open      0/ 150                J",
+        "room": "N/A"
+    },
+    {
+        "course_number": "455",
+        "course_name": "COMPUTER VISION",
+        "section": "Restr",
+        "times": "G20      Krishna,Ranjay             Open      0/ 110",
+        "room": "N/A"
+    },
+    {
+        "course_number": "457",
+        "course_name": "COMPUTER GRAPHICS",
+        "section": "Restr",
+        "times": "G10      Seitz,Steven M             Open      0/  80",
+        "room": "N/A"
+    },
+    {
+        "course_number": "460",
+        "course_name": "ANIMATION CAPSTONE",
+        "section": ">13146",
+        "times": "245      Mones,Barbara                        0/  30",
+        "room": "N/A"
+    },
+    {
+        "course_number": "461",
+        "course_name": "INTRO COMP NETWORKS",
+        "section": "Restr",
+        "times": "G10      Heimerl,Kurtis L.          Open      0/ 100",
+        "room": "N/A"
+    },
+    {
+        "course_number": "469",
+        "course_name": "COMPUTER ARCH I",
+        "section": "Restr",
+        "times": "241      Oskin,Mark H.              Open      0/  10                J",
+        "room": "N/A"
+    },
+    {
+        "course_number": "473",
+        "course_name": "INTR TO ARTIF INTLL",
+        "section": "Restr",
+        "times": "389      Minneker,Robert Edward     Open      0/ 160",
+        "room": "N/A"
+    },
+    {
+        "course_number": "474",
+        "course_name": "INTRO EMBEDDED SYS",
+        "section": "Restr",
+        "times": "139                                 Open      0/  20           $50  J",
+        "room": "N/A"
+    },
+    {
+        "course_number": "475",
+        "course_name": "EMBEDDED CAPSTONE",
+        "section": "Restr",
+        "times": "045      Hussein,Rania              Open      0/   7           $50  J",
+        "room": "N/A"
+    },
+    {
+        "course_number": "478",
+        "course_name": "AUTONOMOUS ROBOTICS",
+        "section": "Restr",
+        "times": "G10      Gupta,Abhishek             Open      0/  42",
+        "room": "LAB TIMES ARE FLEXIBLE AND"
+    },
+    {
+        "course_number": "480",
+        "course_name": "COMPUTER ETHICS SEM",
+        "section": "Restr",
+        "times": "136      Grossman,Dan               Open      0/  70  CR/NC",
+        "room": "TIME CHANGE PENDING"
+    },
+    {
+        "course_number": "481",
+        "course_name": "CAP SOFT DESIGN",
+        "section": "Restr",
+        "times": "202      Popovic,Zoran              Open      0/  30",
+        "room": "N/A"
+    },
+    {
+        "course_number": "482",
+        "course_name": "CAP SW DESIGN - EUP",
+        "section": "Restr",
+        "times": "058      Mankoff,Jennifer C         Open      0/  30",
+        "room": "ACCESSIBILITY CAPSTONE"
+    },
+    {
+        "course_number": "484",
+        "course_name": "COMPUTER SECURITY",
+        "section": "Restr",
+        "times": "110      Tyagi,Nirvan               Open      0/ 156                J",
+        "room": "N/A"
+    },
+    {
+        "course_number": "490",
+        "course_name": "SPECIAL TOPICS CSE",
+        "section": "13167",
+        "times": "024                                 Open      0/  10                J",
+        "room": "N/A"
+    },
+    {
+        "course_number": "492",
+        "course_name": "UGRAD SEMINAR",
+        "section": ">13171",
+        "times": "G01                                           0/ 100  CR/NC",
+        "room": "N/A"
+    },
+    {
+        "course_number": "495",
+        "course_name": "PROJECT PRACTICUM",
+        "section": ">13175",
+        "times": "N/A",
+        "room": "N/A"
+    },
+    {
+        "course_number": "496",
+        "course_name": "HON UGRAD RESEARCH",
+        "section": "IS",
+        "times": "N/A",
+        "room": "N/A"
+    },
+    {
+        "course_number": "498",
+        "course_name": "UNDERGRAD RESEARCH",
+        "section": "IS",
+        "times": "N/A",
+        "room": "N/A"
+    },
+    {
+        "course_number": "499",
+        "course_name": "READING & RESEARCH",
+        "section": "IS",
+        "times": "N/A",
+        "room": "N/A"
+    },
+    {
+        "course_number": "503",
+        "course_name": "SOFTWARE ENG",
+        "section": "Restr",
+        "times": "235                                 Open      0/  30",
+        "room": "N/A"
+    },
+    {
+        "course_number": "510",
+        "course_name": "ADV TOPICS IN HCI",
+        "section": "Restr",
+        "times": "G10                                 Open      0/  40",
+        "room": "N/A"
+    },
+    {
+        "course_number": "517",
+        "course_name": "NAT LANG PROCESSING",
+        "section": "Restr",
+        "times": "260                                 Open      0/  50                J",
+        "room": "N/A"
+    },
+    {
+        "course_number": "519",
+        "course_name": "CURRENT RESEARCH",
+        "section": "Restr",
+        "times": "G20                                 Open      0/ 235  CR/NC",
+        "room": "N/A"
+    },
+    {
+        "course_number": "520",
+        "course_name": "COLLOQUIUM",
+        "section": "Restr",
+        "times": "G20                                 Open      0/ 230  CR/NC",
+        "room": "N/A"
+    },
+    {
+        "course_number": "546",
+        "course_name": "MACHINE LEARNING",
+        "section": "Restr",
+        "times": "110      Golub,Matt                 Open      0/  70                J",
+        "room": "N/A"
+    },
+    {
+        "course_number": "550",
+        "course_name": "COMPUTER SYSTEMS",
+        "section": "Restr",
+        "times": "003                                 Open      0/  40",
+        "room": "N/A"
+    },
+    {
+        "course_number": "556",
+        "course_name": "COMPUTNL FABRICATION",
+        "section": "Restr",
+        "times": "N/A",
+        "room": "N/A"
+    },
+    {
+        "course_number": "564",
+        "course_name": "SECURITY & PRIVACY",
+        "section": "Restr",
+        "times": "101                                 Open      0/  40",
+        "room": "N/A"
+    },
+    {
+        "course_number": "567",
+        "course_name": "DIGITAL SYST DESIGN",
+        "section": ">13193",
+        "times": "TBA",
+        "room": "N/A"
+    },
+    {
+        "course_number": "577",
+        "course_name": "COMPUTER VISION",
+        "section": "13194",
+        "times": "031      Jahanian,Hesam             Open      0/  10                J",
+        "room": "N/A"
+    },
+    {
+        "course_number": "578",
+        "course_name": "CONVEX OPTIMIZATION",
+        "section": "Restr",
+        "times": "045      Fazel,Maryam               Open      0/  10                J",
+        "room": "N/A"
+    },
+    {
+        "course_number": "582",
+        "course_name": "ETHICS IN AI",
+        "section": "Restr",
+        "times": "003                                 Open      0/  40                %",
+        "room": "N/A"
+    },
+    {
+        "course_number": "589",
+        "course_name": "SOFTWARE ENTREP",
+        "section": ">13198",
+        "times": "291      Gottesman,Greg                       0/  50                J",
+        "room": "N/A"
+    },
+    {
+        "course_number": "590",
+        "course_name": "RESEARCH SEMINAR",
+        "section": ">13199",
+        "times": "TBA",
+        "room": "N/A"
+    },
+    {
+        "course_number": "591",
+        "course_name": "GROUP PROJECTS",
+        "section": "Restr",
+        "times": "PROGRAMMING SYSTEMS GROUP MEETING",
+        "room": "N/A"
+    },
+    {
+        "course_number": "599",
+        "course_name": "SPECIAL TOPICS",
+        "section": ">13234",
+        "times": "TBA",
+        "room": "N/A"
+    },
+    {
+        "course_number": "600",
+        "course_name": "INDEPNDNT STDY/RSCH",
+        "section": "IS",
+        "times": "N/A",
+        "room": "N/A"
+    },
+    {
+        "course_number": "601",
+        "course_name": "INTERNSHIP",
+        "section": "Restr",
+        "times": "N/A",
+        "room": "N/A"
+    },
+    {
+        "course_number": "700",
+        "course_name": "MASTERS THESIS",
+        "section": "IS",
+        "times": "N/A",
+        "room": "N/A"
+    },
+    {
+        "course_number": "800",
+        "course_name": "DOCTORAL DISSERTATN",
+        "section": "IS",
+        "times": "N/A",
+        "room": "N/A"
+    }
+]
