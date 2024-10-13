@@ -11,16 +11,16 @@
         <div class="left-half">
             <div class="container">
                 <div class="header">
-                    <button class="tab schedule-tab active" id="schedule1">Suggested Schedule 1</button>
-                    <button class="tab schedule-tab" id="schedule2">Suggested Schedule 2</button>
-                    <button class="tab schedule-tab" id="schedule3">Suggested Schedule 3</button>
+                    <button class="tab schedule-tab" id="schedule1" disabled>Suggested Schedule 1</button>
+                    <button class="tab schedule-tab" id="schedule2" disabled>Suggested Schedule 2</button>
+                    <button class="tab schedule-tab" id="schedule3" disabled>Suggested Schedule 3</button>
                 </div>
                 <div class="header" id="weekdayMenu" style="display: none;">
-                    <button class="tab weekday-tab" id="monday">Monday</button>
-                    <button class="tab weekday-tab" id="tuesday">Tuesday</button>
-                    <button class="tab weekday-tab" id="wednesday">Wednesday</button>
-                    <button class="tab weekday-tab" id="thursday">Thursday</button>
-                    <button class="tab weekday-tab" id="friday">Friday</button>
+                    <button class="tab weekday-tab" data-day="1">Monday</button> <!-- Monday -->
+                    <button class="tab weekday-tab" data-day="2">Tuesday</button> <!-- Tuesday -->
+                    <button class="tab weekday-tab" data-day="3">Wednesday</button> <!-- Wednesday -->
+                    <button class="tab weekday-tab" data-day="4">Thursday</button> <!-- Thursday -->
+                    <button class="tab weekday-tab" data-day="5">Friday</button> <!-- Friday -->
                 </div>
                 <div class="schedule" id="schedule">
                     <table>
@@ -215,6 +215,6 @@
     </div>
 
     <script src="script.js"></script>
-    <script async defer src="..."></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB75jp0snsXwSGFUdNWv7IwZ2J5lMTpV8k&callback=initMap"></script>
 </body>
 </html>
