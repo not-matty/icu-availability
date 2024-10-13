@@ -1,0 +1,218 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  height: 100vh;
+  overflow: hidden; /* Prevent body from scrolling */
+}
+
+.wrapper {
+  display: flex;
+  height: 100%;
+}
+
+.left-half, .right-half {
+  width: 50%;
+  padding: 20px;
+}
+
+.left-half {
+  background-color: #E6E6E6;
+  border-right: 1px solid #D8D8D8;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.container {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.header {
+  display: flex;
+  justify-content: start;
+  padding: 10px 0; 
+}
+
+.tab {
+  padding: 10px 20px;
+  background-color: #fff;
+  border: 2px solid #D8D8D8;
+  border-radius: 10px 10px 0 0;
+  cursor: pointer;
+  margin-right: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.tab.active {
+  background-color: #FFE600;
+  font-weight: bold;
+}
+
+.tab:hover {
+  background-color: #FFFF99;
+}
+
+.tab.schedule-tab {
+}
+
+.tab.weekday-tab {
+}
+
+#weekdayMenu {
+  display: none; 
+}
+
+.schedule {
+  overflow-y: auto; /* Enable vertical scrolling */
+  border-radius: 10px;
+  flex-grow: 1;
+  max-height: calc(100vh - 150px); /* Adjust the height based on available space */
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #fff;
+}
+
+thead th {
+  background-color: #C4C4C4;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #D8D8D8;
+}
+
+tbody td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #D8D8D8;
+}
+
+.actions {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between; /* Spread the buttons across the container */
+  align-items: center; /* Ensure vertical alignment */
+}
+
+.left-buttons {
+  display: flex;
+  gap: 10px; /* Space between the Show Locations and Clear buttons */
+}
+
+button {
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  background-color: #F1F1F1;
+  border-radius: 5px;
+}
+
+#showLocations {
+  background-color: #fff;
+  border: 1px solid #D8D8D8;
+}
+
+#clear {
+  background-color: #fff;
+  border: 1px solid #D8D8D8;
+}
+
+.alter {
+  display: flex;
+  gap: 5px; /* Space between Zoom In and Zoom Out buttons */
+}
+
+.alter button {
+  width: 40px;
+  height: 40px;
+  border: 1px solid #D8D8D8;
+  font-size: 18px;
+}
+
+#add {
+  background-color: #fff;
+}
+
+#subtract {
+  background-color: #fff;
+}
+
+.right-half {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  position: relative;
+}
+
+.chat-history {
+  width: 100%;
+  height: calc(100vh - 200px); /* Adjust height of chat history based on available space */
+  overflow-y: auto;
+  border: 1px solid #D8D8D8;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: #f9f9f9;
+}
+
+.chat-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+textarea {
+  width: 80%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #D8D8D8;
+  font-size: 16px;
+  resize: none;
+  margin-right: 10px;
+}
+
+#sendButton {
+  padding: 10px;
+  font-size: 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#sendButton:hover {
+  background-color: #45a049;
+}
+
+#botResponse {
+  width: 100%;
+  text-align: left;
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
+}
+
+.user-message {
+  text-align: right;
+  margin: 10px 0;
+  color: #333;
+}
+
+.bot-message {
+  text-align: left;
+  margin: 10px 0;
+  color: #4CAF50;
+}
